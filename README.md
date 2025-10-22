@@ -2,18 +2,17 @@
 
 ## 👨‍🎓 Información del Estudiante
 
-- **Nombre:** Apaza Bruna Luis Wilson
+- **Nombre:**Pr"delta
 - **Universidad:** Universidad Nacional del Altiplano (UNAP)
 - **Facultad:** Facultad de Ingeniería Estadística e Informática
-- **Curso:** Aprendizaje Supervisado
-- **Modalidad:** Trabajo Individual
-- **Unidad:** I
+-  Aprendizaje Supervisado
+
 
 ---
 
 ## 📋 Descripción del Proyecto
 
-Este dashboard interactivo integra y documenta **6 algoritmos de aprendizaje supervisado** implementados durante la Unidad I del curso de Aprendizaje Supervisado.
+Este dashboard interactivo integra y documenta **6 algoritmos de aprendizaje supervisado**
 
 ## 🎯 Objetivo
 
@@ -328,14 +327,7 @@ pip install <nombre-del-modulo>
 - Towards Data Science
 - Real Python
 
-## 👤 Información del Trabajo
 
-- **Modalidad:** Individual
-- **Curso:** Aprendizaje Supervisado - Unidad I
-- **Objetivo:** Consolidación de conocimientos mediante implementación práctica
-- **Entrega:** Última semana de la Unidad I
-
-## 📝 Licencia
 
 Este proyecto es de código abierto y está disponible para fines educativos.
 
