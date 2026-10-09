@@ -1,6 +1,6 @@
-# 🤖 Dashboard de Aprendizaje Supervisado
+#  Dashboard de Aprendizaje Supervisado
 
-## 👨‍🎓 Información del Estudiante
+##  Información del Estudiante
 
 - **Nombre:**Pr"delta
 - **Universidad:** Universidad Nacional del Altiplano (UNAP)
@@ -10,22 +10,22 @@
 
 ---
 
-## 📋 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este dashboard interactivo integra y documenta **6 algoritmos de aprendizaje supervisado**
 
-## 🎯 Objetivo
+##  Objetivo
 
 Consolidar el aprendizaje práctico mediante la implementación, visualización y análisis de algoritmos de Machine Learning, permitiendo:
 
-- ✅ Exploración interactiva de cada algoritmo
-- ✅ Visualización de resultados y métricas
-- ✅ Pruebas con datos reales y sintéticos
-- ✅ Documentación técnica completa
+-  Exploración interactiva de cada algoritmo
+-  Visualización de resultados y métricas
+-  Pruebas con datos reales y sintéticos
+-  Documentación técnica completa
 
-## 🔧 Algoritmos Implementados
+##  Algoritmos Implementados
 
-### 1. 📈 Regresión Lineal
+### 1.  Regresión Lineal
 Modelado de relaciones lineales entre variables. Ideal para predicción de valores continuos cuando existe una relación lineal entre features y target.
 
 **Características principales:**
@@ -34,7 +34,7 @@ Modelado de relaciones lineales entre variables. Ideal para predicción de valor
 - Alta interpretabilidad
 - Sensible a outliers
 
-### 2. 🎯 Regresión Logística
+### 2.  Regresión Logística
 Clasificación binaria y multiclase basada en probabilidades.
 
 **Características principales:**
@@ -43,7 +43,7 @@ Clasificación binaria y multiclase basada en probabilidades.
 - Interpretable mediante coeficientes
 - Eficiente para clasificación
 
-### 3. 🔒 Ridge y Lasso
+### 3.  Ridge y Lasso
 Regresión con regularización para prevenir overfitting.
 
 **Ridge (L2):**
@@ -56,7 +56,7 @@ Regresión con regularización para prevenir overfitting.
 - Puede reducir coeficientes a cero
 - Selección automática de features
 
-### 4. 🌳 Árboles de Regresión CART
+### 4.  Árboles de Regresión CART
 Modelos basados en decisiones jerárquicas.
 
 **Características principales:**
@@ -65,7 +65,7 @@ Modelos basados en decisiones jerárquicas.
 - Alta interpretabilidad
 - Propenso a overfitting sin poda
 
-### 5. 👥 K-Nearest Neighbors (KNN)
+### 5.  K-Nearest Neighbors (KNN)
 Predicción basada en vecinos más cercanos.
 
 **Características principales:**
@@ -74,7 +74,7 @@ Predicción basada en vecinos más cercanos.
 - Sensible al valor de k
 - Predicción puede ser lenta
 
-### 6. 🧠 Redes Neuronales
+### 6.  Redes Neuronales
 Deep learning para capturar patrones complejos.
 
 **Características principales:**
@@ -83,7 +83,7 @@ Deep learning para capturar patrones complejos.
 - Captura relaciones complejas
 - Requiere más datos y tiempo
 
-## 💻 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 ### Lenguaje y Framework Principal
 - **Python 3.8+** - Lenguaje de programación
@@ -98,7 +98,7 @@ Deep learning para capturar patrones complejos.
 - **Matplotlib 3.7+** - Gráficos estáticos
 - **Seaborn 0.12+** - Visualización estadística
 
-## 📦 Instalación
+##  Instalación
 
 ### Requisitos Previos
 - Python 3.8 o superior
@@ -134,7 +134,7 @@ O usando un archivo requirements.txt:
 pip install -r requirements.txt
 ```
 
-## 🚀 Cómo Usar
+##  Cómo Usar
 
 ### Ejecutar la Aplicación
 ```bash
@@ -145,7 +145,7 @@ La aplicación se abrirá automáticamente en tu navegador en `http://localhost:
 
 ### Navegación
 
-1. **Página de Inicio (🏠):**
+1. **Página de Inicio ():**
    - Descripción general del proyecto
    - Comparación de algoritmos
    - Instrucciones de uso
@@ -168,33 +168,33 @@ La aplicación se abrirá automáticamente en tu navegador en `http://localhost:
    - Explora visualizaciones interactivas
    - Compara rendimiento
 
-## 📊 Estructura de Cada Algoritmo
+##  Estructura de Cada Algoritmo
 
 Cada sección de algoritmo incluye:
 
-### 📖 Documentación Técnica
+###  Documentación Técnica
 - **Entradas Requeridas:** Formato de datos, tipos, restricciones
 - **Salidas Esperadas:** Predicciones, métricas, visualizaciones
 - **Parámetros del Modelo:** Hiperparámetros disponibles
 
-### 🎯 Contexto de Aplicación
+###  Contexto de Aplicación
 - **Casos de Uso:** Situaciones reales de aplicación
 - **Criterios de Validación:** Cómo evaluar el modelo
 - **Ventajas y Limitaciones:** Cuándo usar o no usar
 
-### ⚙️ Configuración Interactiva
+###  Configuración Interactiva
 - Controles deslizantes para parámetros
 - Generación de datos sintéticos
 - División train/test personalizable
 
-### 📈 Resultados y Visualizaciones
+###  Resultados y Visualizaciones
 - Métricas de evaluación (MSE, RMSE, R², MAE, Accuracy)
 - Gráficos de predicciones vs valores reales
 - Análisis de residuos
 - Matrices de confusión (clasificación)
 - Importancia de features
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 dashboard-ml/
@@ -208,30 +208,30 @@ dashboard-ml/
     └── ejemplos/
 ```
 
-## 📋 Características del Dashboard
+##  Características del Dashboard
 
-### ✅ Especificaciones Técnicas
+###  Especificaciones Técnicas
 - Documentación completa de entradas y salidas
 - Explicación de parámetros
 - Requerimientos de preprocesamiento
 
-### ✅ Visualizaciones Interactivas
+###  Visualizaciones Interactivas
 - Gráficos dinámicos con Matplotlib
 - Análisis de resultados en tiempo real
 - Comparación de modelos
 
-### ✅ Casos de Prueba
+###  Casos de Prueba
 - Datos sintéticos generados automáticamente
 - Configuración personalizable
 - Ejemplos con datasets reales
 
-### ✅ Métricas de Evaluación
+###  Métricas de Evaluación
 - MSE, RMSE, R², MAE para regresión
 - Accuracy, Precision, Recall para clasificación
 - Matrices de confusión
 - Análisis de residuos
 
-## 🎓 Casos de Uso por Algoritmo
+##  Casos de Uso por Algoritmo
 
 ### Regresión Lineal
 - Predicción de precios de viviendas
@@ -263,7 +263,7 @@ dashboard-ml/
 - Alta dimensionalidad
 - Series temporales
 
-## 🔍 Métricas de Evaluación
+##  Métricas de Evaluación
 
 ### Para Regresión
 - **MSE (Mean Squared Error):** Promedio de errores al cuadrado
@@ -278,7 +278,7 @@ dashboard-ml/
 - **F1-Score:** Media armónica de precision y recall
 - **Matriz de Confusión:** Análisis detallado de errores
 
-## ⚠️ Consideraciones Importantes
+##  Consideraciones Importantes
 
 ### Preprocesamiento
 - **KNN y Redes Neuronales:** Requieren normalización obligatoria
@@ -295,7 +295,7 @@ dashboard-ml/
 - Aumentar complejidad si es necesario
 - Considerar interpretabilidad vs performance
 
-## 🐛 Solución de Problemas
+##  Solución de Problemas
 
 ### Error: Module not found
 ```bash
@@ -314,7 +314,7 @@ pip install <nombre-del-modulo>
 - Ajustar `learning_rate_init`
 - Verificar normalización de datos
 
-## 📚 Recursos Adicionales
+##  Recursos Adicionales
 
 ### Documentación Oficial
 - [Scikit-learn](https://scikit-learn.org/)
@@ -331,11 +331,11 @@ pip install <nombre-del-modulo>
 
 Este proyecto es de código abierto y está disponible para fines educativos.
 
-## 🤝 Contribuciones
+##  Contribuciones
 
 Este es un proyecto educativo. Sugerencias y mejoras son bienvenidas.
 
-## 📧 Contacto
+##  Contacto
 
 Para dudas o sugerencias sobre el proyecto, contactar al desarrollador.
 
